@@ -1,0 +1,17 @@
+ .online{
+   display: flex;
+   align-items: center;
+ }
+  .onlineimg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  /* .greenbar{
+
+  }
+  .onlinefriendname{
+
+  }
+   */
+  
